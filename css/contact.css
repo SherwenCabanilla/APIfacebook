@@ -1,0 +1,19 @@
+.f{
+    background-color: #E5F0FE;;
+}
+
+.message{
+    width: 100%;
+    max-width: 700px;
+    height: 60px;
+    background-color: #E5F0FE;
+    border: 1px solid;
+}
+
+.wid{
+    width: 130%;
+    max-width: 220px;
+    height: 35px;
+    background-color: #E5F0FE;
+    border: 1px solid;
+}
